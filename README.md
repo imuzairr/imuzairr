@@ -1,11 +1,13 @@
-# Hi there 👋, I'm Muhammad Uzair  
+# Hi, I'm Muhammad Uzair Zara  
 🌩️ Azure & Cloud Engineer | 💻 Trainer | 🚀 Tech Enthusiast  
 
 ### 🧰 Skills  
-- Azure | M365 | DevOps | PowerShell | Networking  
+- Azure & Microsoft 365 Engineer
+- 6+ years experience in Cloud Technologies
+- Passionate about AI, automation and Cloud Security
 
 ### 🌐 Connect with me  
-[LinkedIn](https://www.linkedin.com/in/imuzairr/) | [Email](mailto:youremail@example.com)
+[My Website](https://www.uzairzara.com) | [LinkedIn](https://www.linkedin.com/in/imuzairr/) | [Email](mailto:connect@uzairzara.com)
 
 
 <!--
